@@ -1,0 +1,14 @@
+# settings.py
+
+WIDTH = 1000
+HEIGHT = 800
+
+START_FPS = 6
+SNAKE_SIZE = 20
+
+APPLE_COUNT = 5
+PEAR_COUNT = 2
+
+BLUE = (0, 128, 255)
+WHITE = (255, 255, 255)
+RED = (200, 0, 0)
